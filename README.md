@@ -1,1 +1,3 @@
-# NFT-landing-page
+# API with minimal API
+
+To run `dotnet run`
